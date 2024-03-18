@@ -36,7 +36,7 @@ For a detailed overview of the challenge, methods, and models built, please refe
 
 ### Results
 
-Our best model achieved a test-set accuracy of **0.88** on the private test set, positioning our team in the **top 10%** among over 580 participants.
+Our team attained an 0.88 accuracy on the private test set, placing us in the top 10% among 580+ participants. Leveraging fine-tuned Keras' [ConvNextLarge](https://keras.io/api/applications/convnext/#convnextlarge-function) model, our approach showcases the efficacy of pre-trained models in image classification.
 
 ## Team
 * [Jacopo Piazzalunga](https://github.com/Jacopopiazza)
