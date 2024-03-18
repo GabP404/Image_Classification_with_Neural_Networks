@@ -37,3 +37,10 @@ For a detailed overview of the challenge, methods, and models built, please refe
 ### Results
 
 Our best model achieved a test-set accuracy of **0.88** on the private test set, positioning our team in the **top 10%** among over 580 participants.
+
+## Team
+* [Jacopo Piazzalunga](https://github.com/Jacopopiazza)
+* [Davide Salonico](https://github.com/DavideSalonico)
+* [Gabriele Puglisi](https://github.com/GabP404)
+* [Denis Sanduleanu](https://github.com/#)
+
