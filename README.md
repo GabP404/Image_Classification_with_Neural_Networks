@@ -12,7 +12,7 @@ We examined three distinct approaches to address the task at hand:
 
 1. Custom CNNs
 2. Utilizing Transfer Learning and Fine-Tuning with pre-trained models sourced from the [Keras Applications](https://keras.io/api/applications/) on the ImageNet dataset.
-3. Implementing Self-Supervised Learning techniques and Ensemble models.
+3. Implementing Self-Supervised Learning techniques models.
 
 After thorough evaluation, the combination of **Transfer Learning + Fine-Tuning** emerged as the most effective strategy for solving this challenge.
 
