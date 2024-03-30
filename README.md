@@ -3,7 +3,7 @@
 ## Challenge: Image Classification
 
 <p align="center">
-	<img src="images/head-image.png" height="250" />
+	<img src="Images/head-image.png" height="250" />
 </p>
 
 This challenge's goal was to train a classifier to correctly predict whether an image represented a **healthy** or **unhealthy** plant.
