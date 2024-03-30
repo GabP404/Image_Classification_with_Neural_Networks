@@ -32,7 +32,7 @@ The original dataset contained X outliers, which we identified and removed to en
 
 ## More Information
 
-For a detailed overview of the challenge, methods, and models built, please refer to the [report](/docs/Report_Challenge_1.pdf) and the [notebooks](/notebooks/Challenge%201/).
+For a detailed overview of the challenge, methods, and models built, please refer to the [report](Report_Challenge_1.pdf) and the [notebooks](/Notebooks).
 
 ### Results
 
