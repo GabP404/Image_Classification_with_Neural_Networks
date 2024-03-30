@@ -18,7 +18,7 @@ After thorough evaluation, the combination of **Transfer Learning + Fine-Tuning*
 
 ## Data Analysis and Augmentation
 
-The original dataset contained X outliers, which we identified and removed to ensure the quality of our training data. Following data preprocessing, data augmentation played a pivotal role in enhancing the robustness of our models. We utilized a variety of augmentation techniques sourced from KerasCV's official APIs, including:
+The original dataset contained 196 outliers, which we identified and removed to ensure the quality of our training data. Following data preprocessing, data augmentation played a pivotal role in enhancing the robustness of our models. We utilized a variety of augmentation techniques sourced from KerasCV's official APIs, including:
 
 - Random Flips
 - Random Translations
@@ -29,6 +29,8 @@ The original dataset contained X outliers, which we identified and removed to en
 - CutMix/Mixup
 - GaussianNoise
 - RandAugment
+
+After careful consideration of the nature of the task and validation through cross-validation, we selected augmentation transformations that do not compromise the model's ability to identify unhealthy patterns. Therefore, transformations involving cropping, cutting, and mixing were discarded from our augmentation pipeline. We focused on augmentation techniques that enhance the robustness of the model without altering the fundamental characteristics of the data.
 
 ## More Information
 
