@@ -44,5 +44,5 @@ Our team attained an 0.88 accuracy on the private test set, placing us in the to
 * [Jacopo Piazzalunga](https://github.com/Jacopopiazza)
 * [Davide Salonico](https://github.com/DavideSalonico)
 * [Gabriele Puglisi](https://github.com/GabP404)
-* [Denis Sanduleanu](https://github.com/#)
+* [Denis Sanduleanu](https://github.com/DenSandu)
 
