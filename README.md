@@ -1,4 +1,4 @@
-# Artificial Neural Networks and Deep Learning HW1 - AY 2023/2024
+# Artificial Neural Networks and Deep Learning
 
 ## Challenge: Image Classification
 
